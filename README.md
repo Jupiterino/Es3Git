@@ -9,12 +9,12 @@ fondamentale è saper **sincornizzare il nostro lavoro on un repository remoto**
 
 ## Aggiungere o rimuovere un repository remoto
 
-'git remote add nome url'
+`git remote add nome url`
 
 ## Caricare il lavoro
 
-'git push origin master'
+`git push origin master`
 
 ## Aggiornare la copia locare della repository
 
-'git pull origin master'
+`git pull origin master`
